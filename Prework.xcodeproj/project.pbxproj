@@ -16,7 +16,6 @@
 		693C612E28A2D8150059BCC2 /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 693C612D28A2D8150059BCC2 /* PreworkTests.swift */; };
 		693C613828A2D8150059BCC2 /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 693C613728A2D8150059BCC2 /* PreworkUITests.swift */; };
 		693C613A28A2D8150059BCC2 /* PreworkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 693C613928A2D8150059BCC2 /* PreworkUITestsLaunchTests.swift */; };
-		693C614728A2E5960059BCC2 /* montserrat.zip in Resources */ = {isa = PBXBuildFile; fileRef = 693C614628A2E5960059BCC2 /* montserrat.zip */; };
 		693C614928A4697D0059BCC2 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 693C614828A4697C0059BCC2 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -51,7 +50,6 @@
 		693C613328A2D8150059BCC2 /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		693C613728A2D8150059BCC2 /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		693C613928A2D8150059BCC2 /* PreworkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		693C614628A2E5960059BCC2 /* montserrat.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = montserrat.zip; path = ../../montserrat.zip; sourceTree = "<group>"; };
 		693C614828A4697C0059BCC2 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -108,7 +106,6 @@
 				693C611A28A2D80F0059BCC2 /* ViewController.swift */,
 				693C611C28A2D80F0059BCC2 /* Main.storyboard */,
 				693C614828A4697C0059BCC2 /* SettingsViewController.swift */,
-				693C614628A2E5960059BCC2 /* montserrat.zip */,
 				693C611F28A2D8140059BCC2 /* Assets.xcassets */,
 				693C612128A2D8140059BCC2 /* LaunchScreen.storyboard */,
 				693C612428A2D8140059BCC2 /* Info.plist */,
@@ -239,7 +236,6 @@
 			files = (
 				693C612328A2D8140059BCC2 /* LaunchScreen.storyboard in Resources */,
 				693C612028A2D8140059BCC2 /* Assets.xcassets in Resources */,
-				693C614728A2E5960059BCC2 /* montserrat.zip in Resources */,
 				693C611E28A2D80F0059BCC2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
