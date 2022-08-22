@@ -35,6 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I tried building a settings screen to change the tip amounts; however, I was unable to get the tip amount to update in the first screen
+
 
 ## License
 
